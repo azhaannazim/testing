@@ -4,7 +4,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.*;
 
-//hello ajju
+//hello azhaan
 public class ConsistentHashing {
     private final int numReplicas;
     private final TreeMap<Long , String> ring;
